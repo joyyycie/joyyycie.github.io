@@ -1,0 +1,138 @@
+body{
+ text-align:center;
+}
+div.ringcaptcha.widget.no-brand{
+ border:0px;!important
+}
+button.btn.btn-submit.btn-block.btn-verify.js-send-code{
+ color:white;!important;
+ background-color:green;!mportant
+}
+button.btn.btn-submit.btn-block.btn-verify.js-send-code {
+ color:white; !important;
+ backround-color:green; !important
+}
+
+#header{
+ text-align:center;
+ padding:0;
+ background-color:orange;
+ border-radius:15px 15px 0 0;
+ border:1px black solid;
+ color:white;
+}
+#header_slogan{
+ color:black;
+ font-weight:light;
+ font-size:15px;
+ margin-top:-0.4cm;
+}
+nav{
+ width:100%;
+ height:40px;
+ padding:0;
+ border-radius:0 0 15px 15px;
+ background-color:black;
+}
+nav ul{
+ float:right;
+ margin-top:-0.4cm;
+ ;
+}
+nav ul li{
+ float:right;
+ font-weight:bold;
+ list-style:none;
+ position:relative;
+}
+nav ul li a{
+ font-family:arial;
+ display:block;
+ font-size:14px;
+ text-decoration:none;
+ padding:22px 14px;
+ color:white;
+}
+#span{
+ position:static;
+ margin-left:11cm;
+}
+.section{
+ width:10cm;
+ border-radius:10px;
+ border:1px black solid;
+ color:black;
+ margin-left:12cm;
+ margin-top:1cm;
+ }
+.submit{
+ background-color:black;
+ padding:12px 12px;
+ border-radius:5px;
+ cursor:pointer;
+ color:#ffffff;
+ font-weight:bold;
+ border:none;
+ outline:none;
+}
+.submit:hover{
+ background-color:#43a09d;
+}
+input{
+ border-radius:5px;
+ border:1px black solid;
+ outline:none;
+}
+#registered_vendors{
+ text-align:center;
+ font-weight:light;
+ font-size:50px;
+ color:black;
+}
+#vendors img{
+ margin-top:1cm;
+}
+#vendors{
+ border-radius:15px;
+ background-color:#fff;
+ border:0px solid black;
+ height:15cm;
+ width:13cm;
+ float:left;
+}
+#about_us{
+ margin-left:10cm;
+ font-weight:light;
+ color:black;
+}
+.about_us{
+ font-size:14px;
+ text-align:center;
+ font-weight:light;
+ color:black;
+}
+#buttons{
+ margin-left:15cm;
+ magin-top:2cm;
+ width:6cm;
+ height:4cm;
+ line-height:1cm;
+}
+footer{
+ text-align:center;
+ vertical-align:bottom;
+ letter-spacing:0.1em;
+ font-size:12px;
+ color:black;
+}
+textarea{
+  height:100px;
+}
+input,textarea{
+ margin-bottom:10px;
+ padding:15px 10px 10px;
+ border:1px #cecece solid;
+ border-radius:5px;
+ outline:none;
+ background-color:#efefef;
+ }
